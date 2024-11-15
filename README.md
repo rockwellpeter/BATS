@@ -1,4 +1,5 @@
-# Closing the Training-Sampling Gap in Conditional Diffusion Models
+# Bridging Training-Sampling Gap in Conditional Diffusion Models:
+**Dynamic Interpolation and Self-Generated Augmentation for Image Restoration**
 
 
 ## Environment Requirements
